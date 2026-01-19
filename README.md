@@ -22,3 +22,4 @@ Otonom sistemler ile siber güvenliği birleştiren, gerçek dünyada çalışan
 📫 Bana ulaşmak:  
 - GitHub: https://github.com/yavuzkorkmazeem  
 - LinkedIn: https://linkedin.com/in/yavuzkorkmazeem
+- iletişim için [linkedin(https://www.linkedin.com/in/yavuzkorkmazeem/)]
