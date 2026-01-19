@@ -1,6 +1,6 @@
 # Merhaba, ben Yavuz Selim 👋
 
-🎓 **İstanbul Gelisşim Üniversitesi** — **Elektrik-Elektronik Mühendisliği** öğrencisiyim.  
+🎓 **İstanbul Gelişim Üniversitesi** — **Elektrik-Elektronik Mühendisliği** öğrencisiyim.  
 🤖 Otonom sistemler, gömülü yazılım ve **siber güvenlik** alanlarında çalışıyorum.
 
 ## 🚀 İlgi Alanlarım
