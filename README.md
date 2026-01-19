@@ -1,16 +1,24 @@
-## Hi there 👋
+# Merhaba, ben Yavuz Selim 👋
 
-<!--
-**yavuzkorkmazeem/yavuzkorkmazeem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **İstanbul Gelisşim Üniversitesi** — **Elektrik-Elektronik Mühendisliği** öğrencisiyim.  
+🤖 Otonom sistemler, gömülü yazılım ve **siber güvenlik** alanlarında çalışıyorum.
 
-Here are some ideas to get you started:
+## 🚀 İlgi Alanlarım
+- Otonom sistemler ve kontrol algoritmaları  
+- Gömülü sistemler (C / C++ / Python)  
+- Siber güvenlik (OSINT, ağ güvenliği, temel pentest)  
+- Linux, Bash ve otomasyon araçları  
+- Donanım–yazılım entegrasyonu
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Teknik Yetkinlikler
+- **Programlama:** Python, C, C++, Bash  
+- **Siber Güvenlik:** OSINT, temel SOC bilgisi, ağ analizi  
+- **Sistemler:** Linux, Git, temel Docker  
+- **Diğer:** Sensörler, mikrodenetleyiciler, veri toplama
+
+## 📌 Hedefim
+Otonom sistemler ile siber güvenliği birleştiren, gerçek dünyada çalışan ve güvenli çözümler geliştirmek.
+
+📫 Bana ulaşmak:  
+- GitHub: https://github.com/yavuzkorkmazeem  
+- LinkedIn: https://linkedin.com/in/yavuzkorkmazeem
