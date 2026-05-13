@@ -45,4 +45,4 @@ I'm an EEE student passionate about cloud architecture and DevOps practices. I e
 *   📧 **Email:** [yavuzselim.korkmaz2027@gmail.com](mailto:yavuzselim.korkmaz2027@gmail.com)
 
 ---
-*"Building the future of infrastructure, one commit at a time."*
+
