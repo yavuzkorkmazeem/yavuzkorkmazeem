@@ -1,4 +1,4 @@
-# Hi, I'm Yavuz Selim 👋
+# Hi, I'm Yavuz👋
 
 🎓 Electrical and Electronics Engineering student at **Istanbul Gelisim University**  
 ☁️ Focused on **Cloud Infrastructure & DevOps** — building reliable, scalable systems on AWS
