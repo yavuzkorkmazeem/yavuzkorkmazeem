@@ -18,36 +18,31 @@ I'm an EEE student passionate about cloud architecture and DevOps practices. I e
 
 ### 🛠️ Technical Skills
 
-| Category | Skills |
+| Category | Tools & Technologies |
 | :--- | :--- |
-| **Cloud & Networking** | AWS (EC2, S3, VPC, RDS, ECS Fargate), NAT Gateway, ALB, Bastion Host |
-| **Containers & CI/CD** | Docker, GitHub Actions |
-| **OS & Scripting** | Linux, Bash, Python |
-| **Engineering & Robotics** | ROS2, MuJoCo Simulation, PCB Design (KiCad) |
+| **Cloud** | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![VPC](https://img.shields.io/badge/Networking-VPC-blue) |
+| **Containers & CI/CD** | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232088FF.svg?style=flat&logo=github-actions&logoColor=white) |
+| **Scripting & OS** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Bash](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) |
+| **Robotics & Eng.** | ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat&logo=ros&logoColor=white) ![KiCad](https://img.shields.io/badge/KiCad-314E22?style=flat&logo=kicad&logoColor=white) |
 
 ---
 
 ### 📌 Featured Projects
 
 #### ☁️ Multi-AZ VPC Architecture on AWS
-*   **Infrastructure:** Designed a highly available AWS environment manually via AWS Console.
-*   **Key Components:** 2 Availability Zones, Public/Private Subnets, ALB, NAT Gateway, and Bastion Host.
+*   **Infrastructure:** Designed a highly available AWS environment manually via AWS Console to master the underlying network logic.
+*   **Components:** 2 AZs, Public/Private Subnets, ALB, NAT Gateway, and Bastion Host.
 *   **Security:** Integrated **Pritunl VPN** for secure administrative access.
 
 #### 🤖 Quadruped Robot Simulations (ITU Anthro Robotic Team)
-*   **Tools:** Working on quadruped robot simulations using **ROS2** and **MuJoCo**.
+*   **Tools:** Developing quadruped robot simulations using **ROS2** and **MuJoCo**.
 *   **Focus:** High-fidelity physical simulations and sensor integration.
-
----
-
-### 📊 GitHub Stats
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yavuzkorkmazeem&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
-  <img width="43.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yavuzkorkmazeem&layout=compact&theme=vue-dark&langs_count=6" />
-</p>
 
 ---
 
 ### 📫 Let's Connect!
 *   💼 **LinkedIn:** [linkedin.com/in/yavuzkorkmazeem](https://linkedin.com/in/yavuzkorkmazeem)
 *   📧 **Email:** [yavuzselim.korkmaz2027@gmail.com](mailto:yavuzselim.korkmaz2027@gmail.com)
+
+---
+*"Building the future of infrastructure, one commit at a time."*
