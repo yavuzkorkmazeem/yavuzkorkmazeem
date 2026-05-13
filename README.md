@@ -30,20 +30,20 @@ I'm an EEE student passionate about cloud architecture and DevOps practices. I e
 ### 📌 Featured Projects
 
 #### ☁️ Multi-AZ VPC Architecture on AWS
-*   **Infrastructure:** Designed a highly available AWS environment manually via AWS Console to master the underlying network logic.
-*   **Key Components:** 2 Availability Zones, Public/Private Subnets, Application Load Balancer (ALB), NAT Gateway, and Bastion Host.
+*   **Infrastructure:** Designed a highly available AWS environment manually via AWS Console.
+*   **Key Components:** 2 Availability Zones, Public/Private Subnets, ALB, NAT Gateway, and Bastion Host.
 *   **Security:** Integrated **Pritunl VPN** for secure administrative access.
 
 #### 🤖 Quadruped Robot Simulations (ITU Anthro Robotic Team)
-*   **Role:** Working on quadruped robot simulations using **ROS2** and **MuJoCo**.
+*   **Tools:** Working on quadruped robot simulations using **ROS2** and **MuJoCo**.
 *   **Focus:** High-fidelity physical simulations and sensor integration.
 
 ---
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yavuzkorkmazeem&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img width="43.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yavuzkorkmazeem&layout=compact&theme=dark&langs_count=6" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yavuzkorkmazeem&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
+  <img width="43.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yavuzkorkmazeem&layout=compact&theme=vue-dark&langs_count=6" />
 </p>
 
 ---
