@@ -44,5 +44,3 @@ I'm an EEE student passionate about cloud architecture and DevOps practices. I e
 *   💼 **LinkedIn:** [linkedin.com/in/yavuzkorkmazeem](https://linkedin.com/in/yavuzkorkmazeem)
 *   📧 **Email:** [yavuzselim.korkmaz2027@gmail.com](mailto:yavuzselim.korkmaz2027@gmail.com)
 
----
-
